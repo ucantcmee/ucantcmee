@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ucantcmee
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in ... learnning and applying it in pratical
+- 🌱 I’m currently learning ... Asic Design Verification
+- 💞️ I’m looking to collaborate on ...Matlab and Vlsi
 - 📫 How to reach me ... you can reach me @ sonusantho@gmail.com
 
 <!---
